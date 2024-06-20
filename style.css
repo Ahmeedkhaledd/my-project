@@ -1,0 +1,14 @@
+/* This will set the background color of the entire page */
+body {
+    background-color: lightblue;
+}
+
+/* This will set the background color of the heading */
+h1 {
+    background-color: yellow;
+}
+
+/* This will set the background color of the paragraph */
+p {
+    background-color: lightgreen;
+}
